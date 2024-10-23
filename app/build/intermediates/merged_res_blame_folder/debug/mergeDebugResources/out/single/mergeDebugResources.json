@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_latindrop.jpeg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\latindrop.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product3.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product6.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_bolsaaaa.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\bolsaaaa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\raw_map_style_light.json.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\raw\\map_style_light.json"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_credit.png.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_default_product.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\default_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_second_activity.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product2.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_carrito.png.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\carrito.png"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_edit_account.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_edit_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\raw_map_style_dark.json.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\raw\\map_style_dark.json"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_product_item_layout.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product5.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product1.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_product_review.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_product_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_cart_item_layout.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\cart_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_entrepreneurship_logo.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\entrepreneurship_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_product4.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\product4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_rounded_courners.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\rounded_courners.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_camaraaa.jpg.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\camaraaa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\layout_activity_entrepreneurships.xml.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_entrepreneurships.xml"
+    },
+    {
+        "merged": "com.example.emprendimientoapp-debug-37:/layout_second_activity.xml.flat",
+        "source": "com.example.emprendimientoapp-main-39:/layout/second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-debug-37:\\drawable_search.png.flat",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\drawable\\search.png"
+    }
+]

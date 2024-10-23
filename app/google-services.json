@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292861613688",
+    "project_id": "latindrip-d5c91",
+    "storage_bucket": "latindrip-d5c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292861613688:android:95c13201d8c0eed60e7f8d",
+        "android_client_info": {
+          "package_name": "com.example.emprendimientoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdrp5l-F_c1Hs0BnqJQxovuJ4pzaxsPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

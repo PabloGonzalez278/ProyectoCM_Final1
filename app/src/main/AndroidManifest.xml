@@ -1,0 +1,47 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.emprendimientoapp">
+
+    <!-- Permisos de localización -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EmprendimientoApp">
+
+        <!-- Clave API de Google Maps -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyA0tRZHUAyib0Nf_iNRx-ceCUKY_ImaHqg" /> <!--AIzaSyA0tRZHUAyib0Nf_iNRx-ceCUKY_ImaHqg-->
+
+        <!-- Declaración de MainActivity con android:exported -->
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MapsActivity" android:exported="false" />
+        <activity android:name=".SecondActivity"/>
+        <activity android:name=".CartActivity"/>
+        <activity android:name=".AccountActivity"/>
+        <activity android:name=".Detaail2Activity"/>
+        <activity android:name=".DetailActivity"/>
+        <activity android:name=".EditAccountActivity"/>
+        <activity android:name=".EntrepreneurshipsActivity"/>
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".PayActivity"/>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".SearchActivity"/>
+    </application>
+
+</manifest>

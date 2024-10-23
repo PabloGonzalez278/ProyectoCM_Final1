@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.EmprendimientoApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personaliza los colores de tu aplicación aquí -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+
+        <!-- Otros ajustes personalizados -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <!-- Aplica el tema base a la aplicación -->
+    <style name="Theme.EmprendimientoApp" parent="Base.Theme.EmprendimientoApp" />
+
+</resources>

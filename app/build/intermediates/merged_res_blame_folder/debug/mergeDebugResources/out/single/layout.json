@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_edit_account.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_edit_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_product_details.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_product_review.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_product_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.emprendimientoapp-mergeDebugResources-36:/layout/second_activity.xml",
+        "source": "com.example.emprendimientoapp-main-39:/layout/second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\second_activity.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\second_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\product_item_layout.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\product_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_entrepreneurships.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_entrepreneurships.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\cart_item_layout.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\cart_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_account.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-mergeDebugResources-36:\\layout\\activity_payment.xml",
+        "source": "C:\\Users\\johan\\.gradle\\daemon\\8.7\\com.example.emprendimientoapp-main-39:\\layout\\activity_payment.xml"
+    }
+]
