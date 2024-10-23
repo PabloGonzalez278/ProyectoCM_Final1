@@ -75,29 +75,24 @@ class Detaail2Activity : AppCompatActivity() {
 
         // Implementación del BottomNavigationView
         val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottom_navigation)
-
         bottomNavigationView.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.action_home -> {
-                    // Navegar a la pantalla de inicio
                     val intent = Intent(this, SearchActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_entrepreneurships -> {
-                    // Navegar a la pantalla de emprendimientos
                     val intent = Intent(this, EntrepreneurshipsActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_account -> {
-                    // Navegar a la pantalla de cuenta
                     val intent = Intent(this, AccountActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_cart -> {
-                    // Navegar a la pantalla del carrito
                     val intent = Intent(this, CartActivity::class.java)
                     startActivity(intent)
                     true

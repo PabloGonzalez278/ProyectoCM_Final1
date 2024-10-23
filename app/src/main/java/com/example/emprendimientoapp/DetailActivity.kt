@@ -60,6 +60,10 @@ class DetailActivity : AppCompatActivity() {
         val buttonOk: Button = findViewById(R.id.buttonOk)
         buttonOk.setOnClickListener {
             val intent = Intent(this, Detaail2Activity::class.java)
+
+            // Pasar el product_id al siguiente Intent
+            intent.putExtra("product_id", productId)
+
             startActivity(intent)
         }
 
@@ -68,25 +72,21 @@ class DetailActivity : AppCompatActivity() {
         bottomNavigationView.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.action_home -> {
-                    // Navegar a la pantalla de inicio
                     val intent = Intent(this, SearchActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_entrepreneurships -> {
-                    // Navegar a la pantalla de emprendimientos
                     val intent = Intent(this, EntrepreneurshipsActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_account -> {
-                    // Navegar a la pantalla de cuenta
                     val intent = Intent(this, AccountActivity::class.java)
                     startActivity(intent)
                     true
                 }
                 R.id.action_cart -> {
-                    // Navegar a la pantalla del carrito
                     val intent = Intent(this, CartActivity::class.java)
                     startActivity(intent)
                     true
